@@ -1,4 +1,4 @@
-# 🛡️ GhostDep!
+# 🛡️ GhostDep
 
 GhostDep is a lightweight **software supply chain security scanner** for Python (PyPI) and JavaScript (npm) ecosystems.
 
